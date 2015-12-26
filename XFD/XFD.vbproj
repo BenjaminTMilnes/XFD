@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="Annotation.vb" />
     <Compile Include="ColourAttribute.vb" />
+    <Compile Include="Diagram.vb" />
     <Compile Include="Element.vb" />
     <Compile Include="FontNameAttribute.vb" />
     <Compile Include="Interaction.vb" />
@@ -89,6 +90,7 @@
     <Compile Include="Particle.vb" />
     <Compile Include="StyleAttribute.vb" />
     <Compile Include="Vector.vb" />
+    <Compile Include="XMLExporter.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
